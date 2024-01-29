@@ -2,6 +2,10 @@
 
 [![Java CI with Maven](https://github.com/ngeor/jHangMan/actions/workflows/maven.yml/badge.svg)](https://github.com/ngeor/jHangMan/actions/workflows/maven.yml)
 
+**Archived project!**
+This project is **archived** and will be **removed**.
+It has moved [here](https://github.com/ngeor/kamino/tree/master/gui/jHangMan).
+
 Hangman game as a Java applet (legacy project)
 
 ## How to run the applet
